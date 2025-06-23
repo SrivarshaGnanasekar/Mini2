@@ -1,4 +1,4 @@
- Overview of the Project: 
+ #Overview of the Project: 
  
 In the age of digital streaming, the sheer volume of available content can be overwhelming 
 for viewers. With platforms like Netflix, Hulu, and Amazon Prime offering thousands of movies 
@@ -9,7 +9,7 @@ and preferences to suggest films that they are likely to enjoy. By leveraging da
 machine learning techniques, these systems can provide personalized recommendations, 
 enhancing user engagement and satisfaction.  
 
- Objectives: 
+ #Objectives: 
  
 To develop a movie recommendation system that suggests films to users based on their 
 preferences, viewing history, and other users' ratings, utilizing data analytics techniques to enhance 
@@ -26,14 +26,14 @@ system recommends movies that share similar characteristics with those the user 
 previously liked. 
 
 
-Steps to run:
+#Steps to run:
 
-  1.Here I have attached The main code and the CSV
-  2. Replace the image background in the code the image you deem fit
-  Libraries needed:
-     pandas
-     matplotlib
-     streamlit
-     sklearn
-     seaborn
-  3.Run it in your terminal by using the command:python -m streamlit run filename.py
+  -Here I have attached The main code and the CSV
+  -Replace the image background in the code the image you deem fit
+  -Libraries needed:
+     -pandas
+     -matplotlib
+     -streamlit
+     -sklearn
+     -seaborn
+  -Run it in your terminal by using the command:python -m streamlit run filename.py
