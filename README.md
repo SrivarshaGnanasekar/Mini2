@@ -1,4 +1,4 @@
- #Overview of the Project: 
+#Overview of the Project: 
  
 In the age of digital streaming, the sheer volume of available content can be overwhelming 
 for viewers. With platforms like Netflix, Hulu, and Amazon Prime offering thousands of movies 
@@ -9,7 +9,7 @@ and preferences to suggest films that they are likely to enjoy. By leveraging da
 machine learning techniques, these systems can provide personalized recommendations, 
 enhancing user engagement and satisfaction.  
 
- #Objectives: 
+#Objectives: 
  
 To develop a movie recommendation system that suggests films to users based on their 
 preferences, viewing history, and other users' ratings, utilizing data analytics techniques to enhance 
