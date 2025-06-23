@@ -28,12 +28,12 @@ previously liked.
 
 Steps to run:
 
-  Here I have attached The main code and the CSV
-  Replace the image background in the code the image you deem fit
-  Libraries needed
+  1.Here I have attached The main code and the CSV
+  2. Replace the image background in the code the image you deem fit
+  Libraries needed:
      pandas
      matplotlib
      streamlit
      sklearn
      seaborn
-  Run it in your terminal by using the command:python -m streamlit run filename.py
+  3.Run it in your terminal by using the command:python -m streamlit run filename.py
